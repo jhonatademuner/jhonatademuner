@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **node.js**
 
-- 👨‍💻 All of my projects are available at [[portfolio coming soon...]]([portfolio coming soon...])
+- 👨‍💻 All of my projects are available at [portfolio coming soon...]
 
 - 💬 Ask me about **anything, if i know i'll help.**
 
 - 📫 How to reach me **jhonata.demuner@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K0VnRL3LnQeJsbKCGgnXzQgAeod78kRJ/view?usp=sharing](https://drive.google.com/file/d/1K0VnRL3LnQeJsbKCGgnXzQgAeod78kRJ/view?usp=sharing)
+- 📄 To know about my experiences [Click here](https://drive.google.com/file/d/1K0VnRL3LnQeJsbKCGgnXzQgAeod78kRJ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
