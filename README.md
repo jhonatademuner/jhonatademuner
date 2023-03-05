@@ -35,7 +35,18 @@
 </p>
 
 <div align="center" justify="center">
-  <a href="https://github.com/jhonataplt">
-  <img height="180em" width="430" src="https://github-readme-stats.vercel.app/api?username=jhonataplt&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="365" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonataplt&layout=compact&langs_count=7&theme=github_dark"/>
+  <a href="https://github.com/jhonataplt/bsi-hub">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhonataplt&repo=bsi-hub&theme=github_dark" />
+  </a>
+  <a href="https://github.com/jhonataplt/sort-comparison">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhonataplt&repo=sort-comparison&theme=github_dark" />
+  </a>
+</div>
+<div align="center" justify="center">
+  <a href="https://github.com/jhonataplt/study-repo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhonataplt&repo=study-repo&theme=github_dark" />
+  </a>
+  <a href="https://github.com/jhonataplt/mini-projects">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhonataplt&repo=mini-projects&theme=github_dark" />
+  </a>
 </div>
