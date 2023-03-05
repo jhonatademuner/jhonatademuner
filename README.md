@@ -35,7 +35,7 @@
 </p>
 
 <h3 align="left">Top Repositories:</h3>
-<div align="center" justify="center">
+<div align="center" justify="space-around">
   <a href="https://github.com/jhonataplt/bsi-hub">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhonataplt&repo=bsi-hub&theme=github_dark" />
   </a>
