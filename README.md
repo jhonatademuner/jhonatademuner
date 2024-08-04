@@ -1,35 +1,40 @@
+<h1 align="center">Hello, I'm Jhonata! 👋</h1>
 
-# Hi, I'm Jhonata! 👋🏽🧑🏽‍💻
+## ⚙My Stack
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=java,spring,kotlin,postgres,mysql,mongo,redis,nodejs,express,react,next,tailwind" alt="Java, Spring, Kotlin, Postgres, MySql, MongoDB, Redis, NodeJs, Express, React, NextJs, TailwindCSS">
+  </a>
+</p>
 
+## My stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jhonatademuner&theme=discord_old_blurple&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d111700" alt="Github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatademuner&layout=compact&theme=discord_old_blurple&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
+</div>
 
-Back in 2021, I started my journey in the world of programming after a sudden interest in how websites were made. I started learning HTML, CSS, and was amazed by how much you could do with just a few lines of code.
-Since then, I've been discovering new technologies and improving my skills. I'm currently pursuing a Bachelor's Degree in Information Systems by the Federal Institute of Espírito Santo.
-Nowadays, I'm trying to expose myself to new challenges and technologies, and always looking for new opportunities to learn and grow. In my free time, I often play some games, listen to music, and watch tech related videos.
+## My projects
+<div align="center">
+  <a href="https://github.com/jhonatademuner/localif">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhonatademuner&theme=discord_old_blurple&bg_color=0d111700&border_color=7289da50&repo=localif"/>
+  </a>
+  <a href="https://jhonatademuner.github.io/sort-comparison">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhonatademuner&theme=discord_old_blurple&bg_color=0d111700&border_color=7289da50&repo=sort-comparison"/>
+  </a>
+</div>
 
-## 🛠 Skills
+<br/>
+<br/>
 
-![Static Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Static Badge](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Static Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Static Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Static Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Motion-black?style=for-the-badge&logo=framer)
-![Static Badge](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
-![Static Badge](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Kotlin-9A63FF?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Static Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-
-## 🔗 Get in Touch!
-
-[![github](https://img.shields.io/badge/github-202020?style=for-the-badge&logo=github)](https://github.com/jhonataplt)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jhonatapolito.live/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatapolito/)
-[![twitter](https://img.shields.io/badge/Mail-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonata.demuner@gmail.com)
+<p align="center">
+  <a href="#" >
+    <img src="https://github.com/user-attachments/assets/9e536544-e74a-46f2-9366-413b0cf3f4e4" alt="Personal Website" height="48px" >
+  </a>
+  <a href="https://www.linkedin.com/in/jhonatademuner/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin">
+  </a>
+  <a href="mailto:jhonata.demuner@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
+  </a>
+</p>
 
