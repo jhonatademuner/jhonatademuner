@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Jhonata! 👋</h1>
+<h1 align="center">Hi, I'm Jhonata! 👋</h1>
 
 ## ⚙My Stack
 <p align="center">
