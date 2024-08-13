@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jhonata! 👋</h1>
 
-## ⚙My Stack
+## My Stack
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=java,spring,kotlin,postgres,mysql,mongo,redis,nodejs,express,react,next,tailwind" alt="Java, Spring, Kotlin, Postgres, MySql, MongoDB, Redis, NodeJs, Express, React, NextJs, TailwindCSS">
@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatademuner&layout=compact&theme=discord_old_blurple&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
 </div>
 
-## My projects
+## Highlighted Projects
 <div align="center">
   <a href="https://github.com/jhonatademuner/localif">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhonatademuner&theme=discord_old_blurple&bg_color=0d111700&border_color=7289da50&repo=localif"/>
@@ -26,6 +26,7 @@
 <br/>
 <br/>
 
+## Let's Connect!
 <p align="center">
   <a href="#" >
     <img src="https://github.com/user-attachments/assets/9e536544-e74a-46f2-9366-413b0cf3f4e4" alt="Personal Website" height="48px" >
