@@ -23,9 +23,6 @@
   </a>
 </div>
 
-<br/>
-<br/>
-
 ## Let's Connect!
 <p align="center">
   <a href="#" >
