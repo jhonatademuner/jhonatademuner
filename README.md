@@ -21,6 +21,9 @@
   <a href="https://jhonatademuner.github.io/sort-comparison">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhonatademuner&theme=discord_old_blurple&bg_color=0d111700&border_color=7289da50&repo=sort-comparison"/>
   </a>
+  <a href="https://github.com/samoleu/komunicatte">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samoleu&theme=discord_old_blurple&bg_color=0d111700&border_color=7289da50&repo=komunicatte"/>
+  </a>
 </div>
 
 ## Let's Connect!
