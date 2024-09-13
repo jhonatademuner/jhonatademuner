@@ -13,22 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatademuner&layout=compact&theme=discord_old_blurple&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
 </div>
 
-## Highlighted Projects
-<div align="center">
-  <a href="https://github.com/jhonatademuner/localif">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhonatademuner&theme=discord_old_blurple&bg_color=0d111700&border_color=7289da50&repo=localif"/>
-  </a>
-  <a href="https://github.com/jhonatademuner/clipboar-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhonatademuner&theme=discord_old_blurple&bg_color=0d111700&border_color=7289da50&repo=clipboar-api"/>
-  </a>
-  <a href="https://github.com/samoleu/komunicatte">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samoleu&theme=discord_old_blurple&bg_color=0d111700&border_color=7289da50&repo=komunicatte"/>
-  </a>
-  <a href="https://jhonatademuner.github.io/sort-comparison">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhonatademuner&theme=discord_old_blurple&bg_color=0d111700&border_color=7289da50&repo=sort-comparison"/>
-  </a>
-</div>
-
 ## Let's Connect!
 <p align="center">
   <a href="#" >
