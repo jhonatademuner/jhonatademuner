@@ -2,9 +2,7 @@
 
 ## My Stack
 <p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,spring,kotlin,postgres,mysql,mongo,redis,nodejs,express,react,next,tailwind" alt="Java, Spring, Kotlin, Postgres, MySql, MongoDB, Redis, NodeJs, Express, React, NextJs, TailwindCSS">
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,go,aws,postgres,redis,mongo,typescript,nodejs,react,next,grafana,docker&theme=dark" alt="Java, Spring, Kotlin, GO, Postgres, MySql, MongoDB, Redis, NodeJs, Express, React, NextJs, TailwindCSS">
 </p>
 
 ## My stats
@@ -15,7 +13,7 @@
 
 ## Let's Connect!
 <p align="center">
-  <a href="#" >
+  <a href="https://jhonatademuner.vercel.app/" >
     <img src="https://github.com/user-attachments/assets/9e536544-e74a-46f2-9366-413b0cf3f4e4" alt="Personal Website" height="48px" >
   </a>
   <a href="https://www.linkedin.com/in/jhonatademuner/">
