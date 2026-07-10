@@ -2,7 +2,7 @@
 
 ## My Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,go,aws,postgres,redis,mongo,typescript,nodejs,react,next,grafana,docker&theme=dark" alt="Java, Spring, Kotlin, GO, Postgres, MySql, MongoDB, Redis, NodeJs, Express, React, NextJs, TailwindCSS">
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,aws,postgres,mongo,redis,rabbitmq,typescript,nodejs,nestjs,react,next,grafana,docker&theme=dark" alt="Java, Spring, Kotlin, AWS, Postgres, MongoDB, Redis, RabbitMQ, TypeScript, NodeJs, NestJs, React, NextJs, Grafana, Docker">
 </p>
 
 ## Let's Connect!
